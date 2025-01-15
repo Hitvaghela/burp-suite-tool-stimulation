@@ -19,4 +19,4 @@ This repository includes a detailed **PDF report** of the simulations performed,
 
  Clone this repository:
    ```bash
-   git clone https://github.com/your-username/EHVA-BurpSuite-Practical.git
+https://github.com/Hitvaghela/burp-suite-tool-stimulation.git
